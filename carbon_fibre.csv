@@ -1,0 +1,501 @@
+fibre_type,quantity_of_fibre,application,color_of_fibre,pan_powder,dmf_solvent,additives,heating_time,energy_use,argon_gas,oxidation,sizing,water,drying,strength,flexibility,diameter_accuracy
+PAN-based Carbon Fiber,14.22,Aerospace,Gray,3.33,3.05,Silica,148.43,301.05,3.27,2.77,2.15,11.47,7.15,87.49,98.52,86.29
+PAN-based Carbon Fiber,33.05,Automotive,Gray,3.93,3.09,None,79.72,363.67,0.87,2.35,3.7,95.3,9.04,92.77,89.89,92.75
+Pitch-based Carbon Fiber,199.81,Automotive,Silver,0.93,9.55,Silica,156.22,346.19,4.38,3.54,0.96,153.79,5.62,88.6,96.67,88.65
+Pitch-based Carbon Fiber,136.91,Sports Equipment,Black,1.17,2.98,Silica,102.66,326.57,4.31,1.52,4.24,192.05,2.28,89.48,96.86,97.88
+Pitch-based Carbon Fiber,69.91,Construction,Gray,3.55,8.14,Silica,69.34,461.8,1.61,4.89,3.39,112.6,6.17,90.4,93.14,90.4
+Pitch-based Carbon Fiber,97.5,Aerospace,Black,1.07,8.82,Alumina,131.22,480.73,1.4,3.63,4.48,32.11,1.69,98.01,92.69,93.63
+PAN-based Carbon Fiber,98.12,Sports Equipment,Gray,1.87,4.79,Titania,172.85,339.78,3.47,4.8,1.05,92.47,4.23,96.77,96.05,89.66
+PAN-based Carbon Fiber,128.47,Sports Equipment,Black,1.74,8.89,Titania,68.8,229.62,2.14,2.02,3.29,57.6,6.51,85.7,94.81,86.43
+Pitch-based Carbon Fiber,128.84,Construction,Gray,0.98,5.03,Silica,111.5,491.54,1.2,2.52,2.18,193.04,3.49,88.85,89.15,86.91
+PAN-based Carbon Fiber,38.3,Sports Equipment,Gray,0.57,9.43,Alumina,101.2,371.26,4.54,4.86,4.33,47.12,8.78,97.38,98.21,87.67
+Pitch-based Carbon Fiber,162.6,Automotive,Black,1.36,9.27,Alumina,49.68,89.55,1.32,2.43,2.58,29.64,9.59,95.52,97.72,93.26
+Pitch-based Carbon Fiber,144.61,Sports Equipment,Gray,1.81,2.52,Titania,94.16,400.1,3.73,4.62,4.86,74.01,9.6,90.3,89.18,96.87
+PAN-based Carbon Fiber,179.59,Automotive,Silver,4.41,2.5,None,80.18,380.12,4.32,0.98,3.62,111.8,6.56,98.71,91.66,89.83
+Rayon-based Carbon Fiber,46.34,Sports Equipment,Black,2.12,6.24,Alumina,128.87,305.27,2.59,4.78,2.07,74.91,1.63,90.88,96.72,89.07
+PAN-based Carbon Fiber,14.02,Automotive,Gray,4.02,9.88,None,172.94,310.03,1.66,1.94,4.16,84.12,4.34,93.2,91.16,97.12
+PAN-based Carbon Fiber,142.23,Aerospace,Silver,4.9,8.53,Silica,79.49,492.24,3.76,3.67,1.56,56.6,7.58,89.87,89.77,89.37
+Rayon-based Carbon Fiber,88.6,Construction,Silver,1.52,2.86,None,118.89,61.23,3.03,1.17,3.86,161.99,6.7,96.59,99.72,97.14
+PAN-based Carbon Fiber,184.13,Sports Equipment,Gray,3.05,4.68,Silica,84.86,362.5,3.0,1.32,3.15,167.64,8.64,97.84,96.29,89.47
+Pitch-based Carbon Fiber,146.61,Sports Equipment,Gray,1.67,1.84,Silica,33.9,303.81,0.59,3.94,0.43,89.17,5.73,89.56,98.8,89.67
+Rayon-based Carbon Fiber,56.02,Automotive,Gray,0.97,4.86,Alumina,55.61,249.63,2.64,0.24,1.63,163.08,1.94,97.92,94.41,86.11
+Pitch-based Carbon Fiber,75.74,Aerospace,Black,4.42,9.99,Titania,137.86,148.84,2.33,0.39,4.1,155.51,4.53,91.47,89.0,96.52
+Rayon-based Carbon Fiber,187.25,Construction,Silver,3.79,7.9,None,67.95,281.67,4.52,4.12,2.73,192.62,2.44,95.27,95.54,97.86
+PAN-based Carbon Fiber,72.98,Automotive,Gray,2.73,4.07,None,139.53,232.88,4.93,0.84,3.22,10.85,5.18,94.93,87.94,94.74
+PAN-based Carbon Fiber,155.81,Aerospace,Silver,4.05,6.33,None,118.09,201.67,4.06,3.87,2.95,81.83,3.27,87.58,99.19,87.19
+PAN-based Carbon Fiber,131.16,Aerospace,Silver,3.11,5.1,None,71.84,261.06,1.55,1.87,4.3,108.51,8.9,90.87,95.99,93.09
+Rayon-based Carbon Fiber,110.22,Aerospace,Black,3.03,9.77,Alumina,43.65,258.61,1.35,3.75,1.12,111.01,0.66,89.91,97.08,99.53
+Pitch-based Carbon Fiber,56.85,Aerospace,Gray,4.11,3.4,Alumina,73.15,112.04,1.11,2.55,3.57,178.47,4.26,87.7,99.31,90.16
+PAN-based Carbon Fiber,59.92,Aerospace,Gray,1.33,8.44,Silica,167.27,56.3,4.09,1.08,1.85,142.88,8.84,93.65,96.21,99.84
+Pitch-based Carbon Fiber,150.26,Construction,Silver,3.63,3.05,Alumina,168.11,290.25,4.81,0.68,1.01,186.11,1.16,96.94,91.03,99.64
+PAN-based Carbon Fiber,83.62,Aerospace,Gray,1.78,5.32,Silica,126.0,429.32,1.19,2.08,1.24,36.04,9.56,91.01,91.35,88.18
+Pitch-based Carbon Fiber,91.0,Aerospace,Gray,4.53,5.64,Silica,100.13,102.23,0.63,0.63,2.97,37.2,7.7,97.46,89.98,99.5
+Pitch-based Carbon Fiber,61.23,Sports Equipment,Gray,4.45,4.59,Titania,138.34,278.68,3.42,3.8,2.11,95.16,2.79,86.94,87.25,98.31
+Pitch-based Carbon Fiber,104.28,Sports Equipment,Silver,4.67,8.4,None,31.49,366.01,2.29,1.51,4.43,20.0,7.98,86.08,96.38,85.6
+Rayon-based Carbon Fiber,198.4,Construction,Gray,1.72,1.79,Titania,71.34,372.46,3.92,3.11,4.68,179.85,3.26,87.32,93.01,85.02
+PAN-based Carbon Fiber,131.97,Sports Equipment,Gray,1.11,7.81,Silica,30.6,273.23,2.18,1.3,1.65,159.08,2.6,98.51,86.27,85.77
+PAN-based Carbon Fiber,182.61,Aerospace,Silver,4.95,6.35,Silica,107.22,470.98,0.64,0.75,1.13,68.02,2.73,98.81,92.92,87.1
+PAN-based Carbon Fiber,22.96,Construction,Black,3.43,6.03,None,92.75,465.53,1.51,2.55,2.83,187.65,0.75,95.74,91.6,97.3
+PAN-based Carbon Fiber,159.01,Aerospace,Gray,4.15,3.95,Alumina,85.93,425.85,1.34,3.39,4.06,154.14,4.35,95.09,85.89,96.48
+Rayon-based Carbon Fiber,89.21,Construction,Gray,3.51,4.98,Alumina,111.04,142.32,4.05,1.9,2.61,182.56,1.46,89.29,90.89,96.81
+PAN-based Carbon Fiber,55.7,Sports Equipment,Gray,0.66,7.84,Titania,80.56,72.44,4.46,1.16,2.87,152.96,3.68,91.69,88.0,86.17
+Pitch-based Carbon Fiber,152.73,Automotive,Silver,1.22,5.61,None,172.28,270.27,4.3,3.72,2.02,101.77,2.73,94.76,99.74,91.63
+Pitch-based Carbon Fiber,114.99,Sports Equipment,Black,3.43,6.87,None,146.37,293.97,2.18,0.22,1.11,120.65,9.02,91.69,98.34,98.75
+Rayon-based Carbon Fiber,33.82,Sports Equipment,Silver,0.78,5.09,Titania,172.47,355.08,3.19,4.68,2.95,10.82,0.6,97.38,90.06,95.01
+PAN-based Carbon Fiber,155.21,Construction,Gray,0.73,9.13,None,56.54,84.01,2.21,3.95,0.72,31.46,4.57,95.69,94.32,99.45
+Pitch-based Carbon Fiber,139.17,Sports Equipment,Silver,1.87,8.56,Silica,173.5,257.59,1.46,4.12,2.84,41.45,5.89,97.87,88.13,93.27
+Rayon-based Carbon Fiber,108.12,Construction,Silver,2.7,5.12,Titania,108.13,184.35,2.95,3.63,2.98,183.35,8.48,89.9,92.14,94.41
+Rayon-based Carbon Fiber,82.32,Construction,Silver,3.72,3.37,Titania,173.97,457.66,1.91,0.29,3.45,91.52,5.22,86.98,88.27,93.7
+PAN-based Carbon Fiber,169.55,Automotive,Gray,3.9,9.3,Titania,81.12,442.82,2.64,4.88,4.92,83.98,5.95,86.39,99.0,99.05
+PAN-based Carbon Fiber,50.27,Sports Equipment,Black,4.65,7.72,Titania,132.99,314.21,2.56,2.25,1.32,154.1,7.17,98.14,92.82,88.25
+Pitch-based Carbon Fiber,88.25,Construction,Black,4.44,7.62,None,53.72,221.64,2.82,4.69,4.69,38.91,1.14,91.12,99.44,99.81
+Rayon-based Carbon Fiber,103.65,Aerospace,Silver,4.06,4.52,Alumina,99.76,348.47,3.05,2.35,2.28,35.37,7.42,90.94,93.16,90.01
+Rayon-based Carbon Fiber,166.5,Construction,Black,4.95,5.6,Silica,51.75,69.29,2.28,2.53,0.85,82.71,7.09,85.78,92.55,86.28
+Rayon-based Carbon Fiber,74.21,Aerospace,Gray,1.8,9.9,None,105.09,250.2,1.02,2.18,4.54,119.14,1.64,85.35,85.77,93.75
+PAN-based Carbon Fiber,78.83,Aerospace,Gray,1.34,5.71,Silica,151.25,478.07,1.09,4.14,1.98,19.55,7.11,97.53,97.54,93.69
+Rayon-based Carbon Fiber,77.94,Sports Equipment,Gray,1.66,8.5,None,148.24,276.0,2.66,3.17,0.79,83.08,3.1,90.19,91.19,87.74
+PAN-based Carbon Fiber,15.62,Sports Equipment,Gray,2.25,9.57,None,119.25,490.92,0.69,4.67,3.81,11.65,1.34,97.56,98.88,96.31
+Rayon-based Carbon Fiber,124.96,Construction,Silver,2.98,4.91,Titania,116.56,91.51,0.56,3.57,3.39,13.59,8.74,90.32,87.5,86.42
+PAN-based Carbon Fiber,13.39,Aerospace,Black,0.55,8.5,Alumina,101.63,141.01,2.58,0.81,1.63,12.39,3.26,93.12,89.29,85.54
+PAN-based Carbon Fiber,172.39,Aerospace,Silver,3.01,1.44,Titania,66.64,265.92,0.5,1.54,2.84,147.64,4.62,90.13,98.46,92.18
+Rayon-based Carbon Fiber,184.35,Automotive,Black,1.69,8.05,Titania,39.63,469.89,1.83,4.54,4.11,183.15,1.54,86.93,95.02,90.5
+Rayon-based Carbon Fiber,130.89,Automotive,Silver,3.82,8.85,Alumina,135.54,472.64,2.61,2.19,0.18,91.85,4.73,98.34,95.24,89.04
+Pitch-based Carbon Fiber,51.9,Aerospace,Gray,4.46,4.81,Alumina,148.33,225.94,4.02,2.62,3.06,126.89,0.56,86.58,97.6,99.26
+PAN-based Carbon Fiber,194.87,Sports Equipment,Silver,3.69,4.13,Titania,56.17,481.9,1.81,0.92,3.6,35.33,4.74,91.84,94.48,90.81
+Rayon-based Carbon Fiber,75.21,Construction,Silver,3.1,7.89,Alumina,162.25,106.21,3.41,3.45,0.96,182.2,7.99,89.19,87.94,94.17
+Rayon-based Carbon Fiber,199.96,Construction,Silver,1.96,4.74,Titania,128.31,398.41,0.82,2.29,4.07,32.61,3.9,90.46,98.74,89.49
+Rayon-based Carbon Fiber,83.29,Aerospace,Gray,0.67,2.13,Alumina,63.23,127.29,3.44,0.74,3.26,47.15,6.77,96.38,96.2,93.29
+Rayon-based Carbon Fiber,140.39,Sports Equipment,Gray,4.18,3.19,Titania,156.93,493.34,1.39,2.34,4.61,76.19,7.61,98.73,88.44,85.25
+PAN-based Carbon Fiber,146.11,Construction,Gray,1.51,8.01,None,91.1,268.2,4.74,2.57,1.73,177.91,9.48,92.41,99.61,96.8
+PAN-based Carbon Fiber,120.21,Construction,Silver,0.51,8.93,Alumina,73.99,354.12,1.19,0.42,1.23,54.35,4.24,85.85,91.15,86.16
+Rayon-based Carbon Fiber,103.47,Construction,Silver,0.73,8.59,Silica,135.25,396.53,1.35,3.01,2.01,35.15,4.43,87.69,96.54,93.58
+PAN-based Carbon Fiber,110.1,Construction,Black,4.56,2.32,None,169.73,371.26,4.51,0.61,1.04,51.66,7.91,96.06,96.9,88.83
+Pitch-based Carbon Fiber,185.6,Automotive,Black,1.04,7.02,Alumina,113.4,417.4,3.63,0.87,1.05,101.53,1.92,97.83,98.87,94.83
+PAN-based Carbon Fiber,174.78,Aerospace,Gray,2.83,4.4,Alumina,129.81,126.2,2.16,3.29,1.97,106.71,3.24,90.35,93.65,89.88
+Rayon-based Carbon Fiber,138.92,Aerospace,Black,4.11,7.21,None,71.89,355.98,4.49,0.11,3.8,104.76,9.26,90.33,99.83,96.88
+Rayon-based Carbon Fiber,17.81,Automotive,Silver,2.22,7.7,None,92.73,497.98,4.43,3.08,1.35,194.39,8.23,89.97,93.4,89.05
+Pitch-based Carbon Fiber,99.39,Construction,Silver,2.56,2.02,None,99.24,130.23,3.29,1.95,1.41,160.3,4.11,86.01,89.48,91.47
+PAN-based Carbon Fiber,87.63,Sports Equipment,Gray,2.19,9.37,Titania,77.0,102.67,1.28,2.83,4.94,18.14,2.82,92.44,86.63,95.84
+Rayon-based Carbon Fiber,178.47,Automotive,Silver,0.81,1.07,Titania,90.85,440.72,4.13,2.38,0.38,164.35,7.76,88.3,90.83,99.79
+PAN-based Carbon Fiber,164.22,Aerospace,Black,3.25,2.38,Alumina,107.77,152.14,2.01,0.65,2.55,145.85,4.18,86.64,98.62,89.36
+Pitch-based Carbon Fiber,169.85,Aerospace,Silver,3.32,3.64,Titania,53.5,290.92,3.42,1.17,1.02,170.73,6.08,88.16,94.12,85.08
+Pitch-based Carbon Fiber,181.8,Aerospace,Silver,4.58,5.76,Silica,169.79,433.91,2.83,1.51,1.86,192.28,6.99,87.97,94.88,89.05
+Rayon-based Carbon Fiber,13.82,Sports Equipment,Silver,3.77,1.89,Alumina,125.56,312.99,3.81,0.26,4.91,140.37,4.25,99.37,85.13,94.53
+Pitch-based Carbon Fiber,39.18,Construction,Silver,1.59,7.65,Silica,67.76,108.01,4.71,3.51,3.41,190.43,4.91,92.87,85.21,90.57
+Pitch-based Carbon Fiber,54.13,Aerospace,Gray,2.79,3.09,Silica,166.8,222.72,3.97,4.16,1.11,66.13,6.57,93.21,91.31,86.18
+PAN-based Carbon Fiber,99.66,Sports Equipment,Gray,4.62,6.0,Titania,124.02,187.19,3.74,2.19,4.24,88.67,8.53,99.18,98.09,95.32
+Pitch-based Carbon Fiber,43.67,Sports Equipment,Silver,2.72,9.55,Silica,166.76,58.57,0.71,1.43,3.6,35.44,9.56,85.38,91.07,86.52
+PAN-based Carbon Fiber,132.15,Automotive,Silver,1.43,2.09,None,139.51,86.32,4.23,3.26,3.57,19.56,8.58,95.09,99.64,89.44
+Pitch-based Carbon Fiber,25.88,Automotive,Silver,3.46,4.65,Silica,43.75,130.07,1.5,1.62,2.43,86.8,4.97,91.76,98.81,91.18
+Rayon-based Carbon Fiber,97.79,Automotive,Black,3.38,6.77,Alumina,67.66,273.71,1.01,1.05,2.39,115.39,7.7,94.57,86.79,90.25
+Pitch-based Carbon Fiber,92.18,Automotive,Gray,1.56,2.19,Silica,52.87,160.01,2.07,4.64,0.48,133.08,5.26,89.52,86.67,91.11
+PAN-based Carbon Fiber,95.11,Sports Equipment,Black,2.38,8.6,None,37.52,475.25,3.6,0.14,3.21,157.7,2.63,97.42,94.45,86.38
+Pitch-based Carbon Fiber,105.76,Construction,Silver,4.75,1.76,None,59.44,489.62,4.61,1.86,2.18,170.49,6.99,96.15,95.76,96.82
+PAN-based Carbon Fiber,103.39,Aerospace,Gray,3.83,2.07,None,66.91,149.35,4.33,2.29,1.3,104.06,4.83,89.03,88.43,90.59
+PAN-based Carbon Fiber,36.0,Automotive,Black,1.45,7.86,None,137.59,479.95,1.88,1.52,3.88,147.65,9.45,85.43,93.92,91.58
+PAN-based Carbon Fiber,160.73,Automotive,Black,1.51,7.41,Silica,171.4,169.0,3.87,4.08,3.1,87.84,5.01,89.23,91.85,86.82
+PAN-based Carbon Fiber,60.14,Sports Equipment,Black,2.13,2.64,Silica,118.25,383.71,4.02,3.21,3.6,88.04,5.26,89.29,87.26,99.4
+Rayon-based Carbon Fiber,125.03,Construction,Silver,3.32,1.98,Alumina,148.94,389.79,2.05,3.64,1.34,168.16,5.84,97.49,94.62,97.3
+PAN-based Carbon Fiber,143.77,Sports Equipment,Silver,2.46,4.94,None,170.39,229.46,1.68,4.88,1.97,154.14,7.58,87.24,86.83,85.71
+PAN-based Carbon Fiber,133.26,Automotive,Silver,1.43,8.04,Titania,147.0,195.37,3.96,3.84,1.78,198.82,4.59,87.07,92.96,93.3
+Pitch-based Carbon Fiber,135.0,Automotive,Black,1.83,8.1,Titania,112.72,298.49,2.02,2.83,4.55,79.85,0.69,93.92,95.04,91.96
+PAN-based Carbon Fiber,77.21,Automotive,Silver,0.85,5.16,None,83.22,446.02,3.29,3.32,3.99,139.24,6.62,91.15,99.34,86.76
+PAN-based Carbon Fiber,129.29,Automotive,Gray,2.87,3.24,Alumina,41.85,261.4,1.37,1.93,4.29,41.55,4.94,89.04,85.64,87.22
+PAN-based Carbon Fiber,63.99,Construction,Silver,0.83,9.77,Alumina,133.15,433.2,3.56,3.77,1.28,94.54,4.41,85.39,91.83,99.78
+PAN-based Carbon Fiber,96.13,Construction,Silver,4.93,2.05,Alumina,103.79,96.09,3.49,3.13,2.86,63.02,5.43,86.09,98.18,88.82
+Rayon-based Carbon Fiber,188.29,Automotive,Gray,4.24,6.94,None,160.7,432.54,2.74,2.54,4.94,35.81,4.5,87.0,89.27,91.18
+PAN-based Carbon Fiber,133.83,Construction,Gray,1.7,2.27,Titania,46.64,218.3,3.05,2.51,0.81,189.47,2.5,89.03,93.44,89.13
+Rayon-based Carbon Fiber,17.64,Construction,Gray,0.93,1.81,Alumina,53.74,164.26,4.4,0.87,0.68,180.26,8.72,88.37,89.73,97.29
+Pitch-based Carbon Fiber,60.31,Automotive,Silver,0.97,7.02,Silica,152.94,311.11,4.88,4.41,2.1,60.29,5.07,85.28,85.59,90.14
+Rayon-based Carbon Fiber,172.48,Automotive,Gray,1.35,6.14,Alumina,93.99,187.45,2.5,1.12,4.0,24.91,3.93,85.12,92.31,90.87
+Pitch-based Carbon Fiber,76.64,Construction,Black,1.4,3.29,Silica,176.39,125.55,2.58,3.49,0.9,142.24,4.0,95.62,92.07,88.36
+PAN-based Carbon Fiber,157.2,Construction,Silver,3.17,3.94,None,124.68,95.79,1.94,0.99,1.07,80.04,7.37,98.74,90.67,85.07
+Rayon-based Carbon Fiber,159.03,Aerospace,Black,2.71,1.55,Titania,167.85,412.77,1.55,3.05,0.76,22.24,0.91,85.9,97.51,93.26
+PAN-based Carbon Fiber,140.45,Automotive,Silver,0.58,2.52,Alumina,148.27,383.54,4.63,1.93,2.33,130.96,6.49,93.17,86.12,88.11
+Pitch-based Carbon Fiber,29.69,Sports Equipment,Gray,3.18,5.93,Silica,33.41,497.31,1.22,2.81,2.79,175.72,9.98,99.35,89.61,85.91
+Rayon-based Carbon Fiber,20.16,Aerospace,Gray,1.15,7.19,None,125.45,56.21,2.76,0.18,1.6,93.46,1.81,91.85,99.24,94.29
+Pitch-based Carbon Fiber,123.54,Sports Equipment,Gray,1.41,8.48,Silica,75.51,379.4,2.64,4.13,1.85,16.14,3.69,85.44,98.61,88.81
+PAN-based Carbon Fiber,111.63,Automotive,Gray,3.0,6.0,Alumina,30.92,172.34,1.03,2.05,3.23,149.82,8.15,90.58,91.03,86.14
+PAN-based Carbon Fiber,151.91,Aerospace,Silver,4.34,6.62,None,179.27,433.8,2.28,1.43,0.18,62.29,1.55,98.21,91.45,86.39
+Rayon-based Carbon Fiber,44.07,Sports Equipment,Black,1.4,9.62,None,125.41,256.19,4.67,3.58,2.19,177.42,3.33,89.56,86.05,99.91
+Rayon-based Carbon Fiber,136.61,Construction,Silver,3.13,5.0,Alumina,153.97,499.71,2.73,2.44,1.56,188.63,1.08,91.0,98.88,94.19
+Rayon-based Carbon Fiber,35.85,Automotive,Gray,2.27,2.91,None,131.09,266.43,4.66,1.05,1.55,190.94,1.17,96.56,97.12,86.76
+Pitch-based Carbon Fiber,64.58,Automotive,Black,1.0,8.87,Alumina,143.79,95.55,3.73,4.15,3.87,185.25,0.79,97.48,89.7,85.64
+Rayon-based Carbon Fiber,102.71,Construction,Silver,0.77,1.39,None,143.66,204.94,1.99,3.58,0.89,172.49,9.05,96.14,92.26,94.51
+Rayon-based Carbon Fiber,183.71,Aerospace,Black,2.8,4.47,None,120.07,394.96,1.59,3.55,1.58,181.32,1.2,96.06,92.67,96.94
+Pitch-based Carbon Fiber,140.4,Automotive,Silver,3.67,4.33,None,69.67,278.82,3.52,1.75,1.73,157.68,2.55,88.07,88.59,94.07
+PAN-based Carbon Fiber,133.89,Automotive,Silver,3.66,3.06,Alumina,81.67,91.63,4.98,1.64,1.38,33.37,7.05,97.47,89.0,85.27
+Rayon-based Carbon Fiber,49.94,Aerospace,Gray,4.62,4.91,Silica,81.99,358.95,1.82,0.45,2.8,60.22,4.23,94.47,85.94,88.01
+Pitch-based Carbon Fiber,86.31,Sports Equipment,Silver,1.44,4.51,None,165.45,379.19,4.45,3.64,1.61,81.01,2.03,96.5,98.9,90.19
+PAN-based Carbon Fiber,183.81,Aerospace,Black,3.67,1.65,Silica,167.27,145.41,1.81,2.76,4.95,123.66,4.17,96.44,98.19,94.14
+PAN-based Carbon Fiber,127.26,Aerospace,Black,1.81,1.71,None,96.19,458.09,3.53,3.96,2.15,39.53,1.89,90.71,91.66,96.74
+Rayon-based Carbon Fiber,75.57,Sports Equipment,Gray,0.75,8.12,None,145.48,202.08,2.34,3.71,3.73,178.98,5.67,94.15,91.22,91.57
+Pitch-based Carbon Fiber,15.75,Aerospace,Black,3.61,4.93,None,114.7,475.97,2.15,3.46,0.95,134.19,3.92,88.03,87.2,89.14
+Pitch-based Carbon Fiber,11.28,Automotive,Silver,3.95,1.17,None,42.68,287.47,2.33,3.9,0.73,137.25,9.08,98.02,87.88,93.68
+Rayon-based Carbon Fiber,188.51,Construction,Black,0.97,9.12,Silica,137.03,307.75,1.57,4.94,3.07,19.59,6.72,93.19,93.39,86.69
+Pitch-based Carbon Fiber,161.23,Aerospace,Gray,1.75,6.52,None,137.84,385.57,2.64,2.41,1.58,58.18,5.48,88.58,85.28,92.73
+Rayon-based Carbon Fiber,164.85,Sports Equipment,Gray,0.65,6.66,Silica,177.17,454.82,2.0,0.95,2.12,26.59,9.05,97.63,92.09,93.46
+Rayon-based Carbon Fiber,18.34,Aerospace,Black,2.73,9.55,Titania,102.07,406.02,3.59,2.79,1.71,196.45,4.25,98.83,93.24,99.69
+Pitch-based Carbon Fiber,49.27,Automotive,Black,4.63,5.25,Alumina,179.09,274.93,4.02,4.09,2.82,36.14,3.43,88.38,94.38,94.1
+Rayon-based Carbon Fiber,74.5,Construction,Silver,3.97,7.47,Alumina,103.09,478.72,2.6,4.08,0.21,175.49,1.45,96.8,99.01,93.32
+Pitch-based Carbon Fiber,104.73,Construction,Gray,3.49,4.58,Alumina,107.82,225.61,3.23,3.25,4.39,121.92,1.1,86.31,91.06,99.52
+Pitch-based Carbon Fiber,65.92,Sports Equipment,Gray,4.83,9.72,None,32.26,154.24,1.01,1.07,3.23,38.15,5.89,86.44,93.04,88.26
+PAN-based Carbon Fiber,166.18,Construction,Black,1.88,6.01,Titania,176.73,222.04,4.69,4.01,4.84,185.89,4.71,91.51,97.15,98.91
+Rayon-based Carbon Fiber,167.5,Aerospace,Gray,4.57,2.49,Silica,157.26,72.67,2.32,2.41,4.7,86.33,4.29,85.05,92.22,89.4
+Rayon-based Carbon Fiber,116.29,Sports Equipment,Gray,0.92,9.22,Alumina,50.49,395.85,4.23,4.55,2.23,198.75,4.36,93.09,99.84,88.1
+PAN-based Carbon Fiber,176.31,Construction,Black,4.46,8.08,Alumina,138.07,459.75,2.36,4.71,3.98,172.1,5.89,86.47,93.93,94.3
+PAN-based Carbon Fiber,139.27,Sports Equipment,Silver,2.93,4.17,None,33.0,420.58,0.75,3.67,1.03,123.96,1.67,90.9,98.05,94.81
+PAN-based Carbon Fiber,167.65,Aerospace,Silver,3.12,7.63,Titania,112.79,452.6,2.47,3.84,3.5,119.18,8.95,95.2,87.14,97.18
+Pitch-based Carbon Fiber,196.0,Automotive,Black,1.54,3.29,Alumina,113.59,299.44,2.5,0.83,1.8,60.53,6.24,97.62,89.57,90.51
+Pitch-based Carbon Fiber,172.92,Construction,Black,1.46,9.34,Alumina,121.73,239.6,3.38,3.65,4.53,96.37,5.85,94.9,86.99,88.17
+Pitch-based Carbon Fiber,162.73,Sports Equipment,Black,4.65,5.35,Silica,76.78,190.0,2.61,1.08,4.23,30.11,6.94,97.26,92.55,87.17
+PAN-based Carbon Fiber,155.3,Construction,Black,2.39,9.13,Silica,50.78,135.34,4.88,0.68,4.43,24.56,9.29,90.84,86.52,92.35
+Pitch-based Carbon Fiber,127.43,Aerospace,Gray,2.23,5.18,Alumina,77.46,318.81,4.03,0.29,2.86,123.4,7.05,98.31,96.89,97.36
+Pitch-based Carbon Fiber,27.13,Construction,Gray,3.52,8.79,Alumina,114.19,447.46,2.6,0.88,2.53,133.77,9.49,90.48,96.77,85.43
+Rayon-based Carbon Fiber,198.77,Sports Equipment,Black,3.31,5.29,None,90.69,161.96,4.27,4.89,3.61,196.59,3.98,85.81,86.52,92.32
+Rayon-based Carbon Fiber,29.98,Aerospace,Gray,1.24,2.32,Silica,48.72,488.69,3.69,1.35,1.94,154.18,5.78,98.07,95.96,93.14
+Rayon-based Carbon Fiber,85.88,Construction,Black,2.33,9.28,Titania,138.0,183.7,1.9,3.38,3.15,191.18,8.03,97.0,93.56,93.22
+Pitch-based Carbon Fiber,170.01,Aerospace,Silver,2.84,8.55,Silica,142.79,325.06,2.6,1.49,0.11,103.44,9.58,95.48,95.18,92.78
+Rayon-based Carbon Fiber,39.9,Aerospace,Black,1.78,7.81,Silica,67.24,268.39,2.0,2.3,0.14,69.39,9.68,97.67,90.33,87.61
+Pitch-based Carbon Fiber,36.33,Aerospace,Silver,2.35,9.92,Silica,135.72,405.48,3.29,0.77,0.85,145.49,5.61,99.32,95.31,86.26
+PAN-based Carbon Fiber,139.87,Automotive,Black,3.75,1.83,None,73.54,353.52,2.37,3.82,2.46,130.41,4.22,98.99,92.02,97.63
+Pitch-based Carbon Fiber,89.14,Automotive,Silver,3.21,1.91,Titania,72.51,168.35,2.51,4.98,0.56,159.9,3.88,88.77,85.32,85.73
+Pitch-based Carbon Fiber,116.35,Aerospace,Silver,4.13,5.58,Titania,72.74,233.73,0.59,4.35,3.71,62.37,8.04,97.55,88.76,93.67
+Rayon-based Carbon Fiber,127.84,Automotive,Silver,4.98,2.22,None,137.73,129.93,0.68,3.91,1.93,61.09,8.82,90.35,89.01,99.75
+Pitch-based Carbon Fiber,75.09,Aerospace,Gray,2.56,3.72,Silica,79.72,344.21,0.85,0.97,2.09,194.72,6.91,99.77,99.1,91.34
+PAN-based Carbon Fiber,197.43,Aerospace,Silver,4.8,1.32,None,79.55,60.81,2.88,2.05,1.44,189.34,0.84,97.58,92.0,93.85
+Rayon-based Carbon Fiber,14.11,Sports Equipment,Silver,2.54,5.25,None,139.34,266.53,1.82,2.05,2.25,138.39,1.28,96.25,87.18,90.19
+Rayon-based Carbon Fiber,156.64,Construction,Black,4.74,5.26,Silica,50.55,86.44,4.38,4.43,1.43,135.42,1.69,91.8,99.36,86.0
+PAN-based Carbon Fiber,178.15,Construction,Black,4.47,2.61,Alumina,79.62,309.37,4.68,2.96,1.93,57.27,5.62,99.62,97.63,87.37
+Pitch-based Carbon Fiber,178.36,Aerospace,Gray,3.29,1.43,Silica,65.61,339.21,2.73,2.3,0.11,162.61,8.05,86.75,97.17,98.35
+PAN-based Carbon Fiber,114.34,Automotive,Silver,3.16,7.69,None,142.83,177.13,3.95,2.03,1.07,184.25,9.19,88.79,89.42,99.84
+PAN-based Carbon Fiber,14.76,Sports Equipment,Black,4.21,7.0,Alumina,69.68,416.78,4.2,1.92,0.32,194.16,8.44,96.14,91.09,96.73
+PAN-based Carbon Fiber,124.88,Construction,Gray,2.6,5.64,None,94.55,208.51,1.74,0.88,4.7,145.97,3.66,85.35,98.38,92.84
+Rayon-based Carbon Fiber,144.15,Construction,Gray,0.68,5.66,Alumina,55.46,295.24,1.13,2.47,0.47,61.05,0.59,95.4,89.55,86.19
+Rayon-based Carbon Fiber,16.54,Construction,Silver,4.92,6.3,None,95.99,412.89,0.76,3.19,1.56,126.3,3.8,86.25,95.57,91.12
+Rayon-based Carbon Fiber,26.04,Automotive,Gray,3.91,9.36,Silica,88.82,117.09,1.6,0.96,3.93,87.28,7.05,98.8,88.86,86.53
+PAN-based Carbon Fiber,159.62,Sports Equipment,Gray,3.78,7.86,Silica,94.32,241.99,3.72,3.53,3.13,63.09,9.24,88.87,86.03,96.67
+PAN-based Carbon Fiber,18.56,Aerospace,Gray,2.83,9.29,Titania,69.48,424.14,0.67,4.9,4.37,25.48,5.54,91.79,94.61,93.51
+Rayon-based Carbon Fiber,109.92,Construction,Gray,4.1,6.34,Titania,171.9,379.99,3.93,3.38,1.58,182.07,5.39,95.52,88.33,92.89
+Pitch-based Carbon Fiber,196.19,Construction,Silver,2.0,9.52,Alumina,98.56,484.53,3.28,4.96,0.78,185.08,1.78,94.47,85.92,94.23
+PAN-based Carbon Fiber,71.51,Construction,Silver,4.37,9.56,Titania,43.18,442.59,2.44,4.69,3.09,21.59,7.54,91.35,96.03,88.59
+Pitch-based Carbon Fiber,38.18,Construction,Gray,1.39,6.15,None,166.46,260.85,4.27,1.47,1.81,99.86,5.83,87.53,95.13,97.6
+Pitch-based Carbon Fiber,122.66,Construction,Silver,3.47,9.23,Titania,62.56,358.33,4.55,2.63,1.14,107.03,9.03,89.78,99.61,91.59
+PAN-based Carbon Fiber,45.78,Aerospace,Black,2.67,5.13,Silica,109.71,485.38,1.32,0.77,1.0,36.34,7.48,97.84,92.34,91.93
+Rayon-based Carbon Fiber,10.22,Sports Equipment,Black,4.65,6.21,None,119.22,363.25,2.29,3.28,2.97,10.42,9.81,87.48,86.23,95.63
+Rayon-based Carbon Fiber,59.5,Aerospace,Silver,0.6,9.51,Alumina,75.52,138.37,3.22,1.91,1.11,191.74,7.28,94.01,88.46,94.58
+PAN-based Carbon Fiber,65.01,Aerospace,Gray,1.67,3.93,Titania,39.35,70.28,3.93,2.08,1.83,123.85,8.97,95.57,86.35,89.5
+Pitch-based Carbon Fiber,148.91,Construction,Silver,4.12,2.41,Silica,174.68,339.02,1.71,2.29,1.14,11.33,5.89,98.12,96.72,99.66
+PAN-based Carbon Fiber,142.35,Automotive,Silver,0.87,8.41,None,115.54,365.21,4.3,2.03,4.66,117.26,7.62,89.38,86.17,99.55
+PAN-based Carbon Fiber,116.77,Sports Equipment,Black,2.78,2.78,Silica,147.57,438.32,1.3,4.87,3.24,116.12,8.95,87.91,99.24,97.85
+PAN-based Carbon Fiber,114.75,Construction,Gray,3.47,7.33,None,168.68,409.96,2.05,0.83,1.9,199.2,1.06,98.55,90.1,92.59
+PAN-based Carbon Fiber,104.81,Aerospace,Silver,1.01,1.51,Silica,98.34,213.9,4.47,5.0,0.63,81.01,8.77,89.46,87.86,91.37
+Rayon-based Carbon Fiber,183.87,Sports Equipment,Black,1.86,3.17,Alumina,142.66,427.4,1.01,3.62,0.27,147.41,6.72,96.63,86.82,95.08
+PAN-based Carbon Fiber,184.46,Automotive,Black,4.79,4.2,Alumina,101.32,317.78,1.18,4.98,3.01,153.09,7.89,98.05,86.03,95.49
+Rayon-based Carbon Fiber,82.6,Aerospace,Silver,4.77,2.52,Titania,58.61,474.28,2.57,3.63,3.38,51.91,3.74,99.57,88.27,93.77
+PAN-based Carbon Fiber,55.84,Aerospace,Black,4.8,5.28,Titania,139.72,134.46,4.29,3.63,2.39,197.81,7.05,96.27,95.98,93.06
+PAN-based Carbon Fiber,23.48,Sports Equipment,Gray,4.63,2.07,Alumina,150.66,140.46,3.98,0.63,2.22,121.01,5.31,91.8,89.41,88.09
+PAN-based Carbon Fiber,64.14,Aerospace,Silver,0.75,3.41,Titania,131.46,413.43,4.82,1.51,4.43,181.86,6.46,87.52,91.3,92.35
+PAN-based Carbon Fiber,62.8,Construction,Gray,3.88,7.38,None,50.18,491.2,1.96,3.29,1.94,50.04,4.14,98.3,86.68,93.81
+Pitch-based Carbon Fiber,146.28,Construction,Black,2.67,2.96,Titania,176.55,375.9,4.22,3.98,0.51,30.56,4.21,97.2,99.77,95.65
+PAN-based Carbon Fiber,152.75,Automotive,Black,3.91,4.87,None,93.24,340.1,4.87,3.98,4.34,75.61,8.9,85.95,98.92,86.4
+Rayon-based Carbon Fiber,22.72,Automotive,Gray,2.6,5.98,Silica,168.74,69.15,2.38,0.6,3.6,144.49,5.49,89.63,93.34,91.05
+Pitch-based Carbon Fiber,38.05,Construction,Silver,1.72,4.79,None,109.79,89.57,4.04,4.0,0.22,143.14,2.9,94.85,85.15,98.66
+Pitch-based Carbon Fiber,160.88,Aerospace,Black,3.57,1.13,Titania,37.56,57.27,2.97,3.96,0.7,172.13,2.74,98.0,94.87,86.01
+PAN-based Carbon Fiber,93.58,Automotive,Black,3.37,2.84,Alumina,49.64,160.45,3.58,3.59,0.15,88.43,8.5,87.26,92.16,87.86
+Pitch-based Carbon Fiber,153.96,Automotive,Black,4.16,8.82,Titania,54.97,50.52,1.05,0.67,1.95,133.8,0.74,88.84,98.95,92.41
+PAN-based Carbon Fiber,57.88,Automotive,Gray,1.52,8.2,Silica,34.54,241.1,2.61,2.96,4.25,31.77,5.74,85.28,92.1,94.5
+Rayon-based Carbon Fiber,56.48,Sports Equipment,Gray,1.79,9.39,Titania,42.82,377.4,4.17,3.88,0.53,167.4,8.92,91.4,88.31,88.3
+Pitch-based Carbon Fiber,131.79,Aerospace,Gray,0.68,2.77,Silica,160.53,405.02,0.68,2.02,4.42,21.42,8.61,93.68,89.89,87.17
+Rayon-based Carbon Fiber,185.29,Aerospace,Black,3.4,2.36,None,97.79,333.8,1.42,4.94,2.29,10.7,1.21,97.27,96.71,89.64
+Pitch-based Carbon Fiber,140.7,Automotive,Black,1.0,7.98,None,147.3,389.69,4.6,3.16,3.78,95.28,4.97,89.55,98.02,96.82
+PAN-based Carbon Fiber,108.31,Construction,Black,1.32,2.35,Titania,146.06,386.51,1.5,3.76,0.54,154.84,2.33,89.58,87.37,85.01
+PAN-based Carbon Fiber,141.04,Aerospace,Gray,3.26,4.52,None,172.71,167.96,3.73,3.97,2.52,195.69,7.57,89.66,88.45,99.1
+PAN-based Carbon Fiber,32.43,Construction,Black,3.34,6.45,Alumina,122.32,491.26,4.26,1.51,3.97,32.46,7.24,91.38,95.27,93.15
+PAN-based Carbon Fiber,198.24,Sports Equipment,Black,1.45,3.48,Titania,121.61,53.73,2.11,0.7,2.65,198.83,6.4,91.48,98.46,86.22
+Pitch-based Carbon Fiber,104.3,Aerospace,Black,4.81,5.27,Alumina,63.09,180.0,3.71,0.91,3.62,168.72,2.17,93.65,87.74,99.28
+Pitch-based Carbon Fiber,22.77,Sports Equipment,Black,1.62,3.01,None,104.26,218.75,4.88,2.28,4.53,142.79,6.42,94.05,95.23,89.45
+PAN-based Carbon Fiber,177.69,Sports Equipment,Silver,4.09,3.18,Silica,124.52,91.48,4.99,0.19,0.53,183.52,0.9,99.45,85.4,89.89
+Pitch-based Carbon Fiber,108.97,Automotive,Silver,1.64,6.52,Silica,94.99,493.14,2.96,0.64,1.2,144.22,7.51,87.11,88.72,97.44
+PAN-based Carbon Fiber,106.24,Automotive,Silver,1.36,8.45,Silica,47.88,295.72,3.86,2.81,2.64,24.98,5.28,99.03,86.63,91.99
+Pitch-based Carbon Fiber,30.27,Sports Equipment,Gray,1.81,6.26,Alumina,133.02,208.41,3.39,2.6,3.68,139.26,2.41,87.73,85.46,97.96
+PAN-based Carbon Fiber,156.4,Construction,Gray,1.14,6.69,None,86.45,407.9,1.57,2.35,3.52,185.82,1.97,86.44,98.94,94.6
+Rayon-based Carbon Fiber,171.51,Automotive,Gray,2.68,6.27,Alumina,145.14,200.72,2.96,4.53,0.87,10.76,6.42,92.49,88.3,90.22
+PAN-based Carbon Fiber,124.64,Sports Equipment,Silver,4.45,6.81,Alumina,149.61,395.6,1.0,2.76,2.01,133.71,1.33,96.68,88.75,93.24
+Rayon-based Carbon Fiber,116.38,Automotive,Black,1.35,7.96,Alumina,146.53,179.9,1.66,3.59,3.68,54.72,3.64,94.5,97.06,96.28
+PAN-based Carbon Fiber,159.85,Aerospace,Black,4.9,3.9,Titania,132.75,370.45,1.83,1.96,3.64,69.01,8.53,99.84,92.19,87.79
+Rayon-based Carbon Fiber,25.74,Aerospace,Gray,3.16,6.23,Titania,75.04,81.01,4.29,0.42,2.81,166.72,6.93,91.32,91.4,88.2
+PAN-based Carbon Fiber,152.18,Construction,Silver,2.06,3.04,Silica,114.46,469.52,1.26,1.78,2.41,51.08,0.67,93.42,98.35,90.01
+Pitch-based Carbon Fiber,187.25,Sports Equipment,Silver,4.49,9.19,Silica,122.74,78.16,3.35,4.75,0.42,129.68,2.7,90.86,95.64,87.42
+Rayon-based Carbon Fiber,64.85,Construction,Gray,3.8,9.27,Silica,32.97,447.31,0.77,2.65,2.36,23.15,6.25,98.72,86.2,85.27
+Rayon-based Carbon Fiber,194.07,Aerospace,Silver,4.01,1.31,None,175.52,450.01,2.54,0.85,1.54,40.56,4.77,90.58,88.68,99.3
+Rayon-based Carbon Fiber,68.27,Aerospace,Gray,2.12,7.2,Silica,50.66,215.66,3.38,0.98,2.76,70.38,2.18,93.54,87.65,99.63
+Rayon-based Carbon Fiber,77.57,Aerospace,Silver,4.78,2.96,None,114.05,90.78,4.6,1.11,1.31,28.81,0.51,87.44,98.27,85.8
+Pitch-based Carbon Fiber,155.15,Sports Equipment,Silver,1.35,2.91,None,103.73,282.33,1.06,2.47,2.27,178.02,9.3,87.0,97.34,90.5
+Rayon-based Carbon Fiber,195.16,Construction,Gray,2.52,4.3,Alumina,68.43,92.51,2.22,2.01,4.6,21.62,1.36,90.09,96.97,97.51
+PAN-based Carbon Fiber,87.49,Construction,Silver,4.3,3.33,Silica,83.0,347.49,3.23,0.24,2.37,194.12,1.36,86.28,96.57,96.07
+PAN-based Carbon Fiber,25.55,Automotive,Black,3.7,5.46,Alumina,64.67,382.29,3.04,4.75,1.51,62.96,6.82,98.01,88.24,88.34
+Pitch-based Carbon Fiber,36.59,Automotive,Gray,1.46,9.94,Silica,38.37,341.1,0.78,0.99,1.24,103.45,9.78,99.13,85.64,85.36
+Rayon-based Carbon Fiber,64.87,Aerospace,Black,0.54,2.93,Silica,163.61,220.02,4.5,4.3,4.5,124.07,5.75,95.57,94.66,85.88
+Rayon-based Carbon Fiber,169.53,Sports Equipment,Black,4.38,2.72,None,157.84,430.78,2.79,0.92,2.72,176.29,1.04,85.0,93.23,86.12
+PAN-based Carbon Fiber,164.99,Automotive,Silver,1.39,6.61,Silica,74.61,176.01,0.58,4.06,4.34,144.89,9.83,99.74,97.17,86.47
+Pitch-based Carbon Fiber,36.19,Sports Equipment,Gray,2.33,3.48,Alumina,96.14,346.31,1.64,0.45,3.01,37.17,2.47,91.24,92.15,97.54
+Rayon-based Carbon Fiber,61.56,Automotive,Black,1.67,8.49,Silica,33.32,435.0,0.53,3.19,1.43,29.92,2.69,87.45,95.1,86.62
+PAN-based Carbon Fiber,95.26,Aerospace,Silver,4.14,9.1,Silica,106.21,190.52,3.08,2.78,1.1,175.53,7.82,88.73,90.48,94.69
+Rayon-based Carbon Fiber,80.14,Sports Equipment,Black,1.69,7.25,Silica,107.79,412.58,3.06,2.45,4.21,189.68,6.93,98.24,94.45,95.61
+Rayon-based Carbon Fiber,129.65,Construction,Black,2.28,9.03,Alumina,62.96,433.01,2.15,1.05,2.61,97.96,6.18,96.85,92.37,85.9
+PAN-based Carbon Fiber,114.22,Sports Equipment,Black,2.01,6.96,None,151.13,137.34,4.97,2.64,3.14,199.14,5.87,93.43,85.33,99.92
+Pitch-based Carbon Fiber,49.08,Automotive,Black,4.68,5.55,Silica,103.6,451.82,1.03,1.8,3.24,129.45,9.29,92.13,99.4,93.24
+PAN-based Carbon Fiber,128.81,Automotive,Silver,4.93,9.79,Titania,59.2,475.18,1.22,4.29,4.27,51.95,8.57,93.84,94.03,94.7
+PAN-based Carbon Fiber,145.7,Construction,Silver,4.69,6.06,Alumina,46.28,376.87,1.48,4.18,3.43,44.02,0.95,96.87,96.69,88.35
+Rayon-based Carbon Fiber,60.91,Aerospace,Black,3.58,1.59,Titania,111.63,131.13,1.16,1.79,3.57,143.34,9.6,86.71,93.12,89.18
+Rayon-based Carbon Fiber,80.89,Automotive,Black,4.1,7.1,Silica,125.76,299.46,2.3,3.63,0.11,180.04,9.02,88.59,97.85,94.82
+Pitch-based Carbon Fiber,183.16,Construction,Gray,2.68,6.13,Titania,159.97,73.15,2.57,4.53,2.44,44.15,5.45,95.21,88.78,87.18
+PAN-based Carbon Fiber,109.27,Sports Equipment,Silver,4.6,2.34,Titania,156.79,236.98,4.69,1.12,1.07,168.99,6.12,95.22,89.27,93.81
+Pitch-based Carbon Fiber,195.56,Aerospace,Silver,1.55,5.55,Silica,65.67,377.24,3.5,1.0,3.46,45.32,8.69,88.88,94.45,87.38
+Pitch-based Carbon Fiber,112.09,Automotive,Silver,2.07,1.69,Titania,87.3,278.78,2.51,1.26,4.63,133.28,8.09,90.67,99.74,93.47
+Pitch-based Carbon Fiber,114.2,Sports Equipment,Black,2.37,9.92,Silica,111.47,187.81,2.66,1.26,4.09,190.48,2.13,91.03,97.21,89.28
+Pitch-based Carbon Fiber,78.72,Aerospace,Silver,3.96,4.49,Alumina,178.89,133.58,0.67,3.23,4.84,156.16,2.0,90.55,89.75,96.36
+Rayon-based Carbon Fiber,140.94,Aerospace,Black,1.59,1.14,Alumina,95.63,84.73,4.18,1.04,4.9,53.81,6.5,90.84,95.76,98.84
+PAN-based Carbon Fiber,190.72,Sports Equipment,Gray,3.25,8.24,Silica,133.04,189.84,1.27,4.73,2.76,199.71,1.69,97.51,87.58,88.43
+Rayon-based Carbon Fiber,34.78,Construction,Gray,4.37,2.13,None,145.5,79.33,4.59,0.57,3.48,36.56,1.38,95.2,99.52,94.44
+PAN-based Carbon Fiber,137.74,Automotive,Black,1.56,3.96,Silica,162.74,150.32,0.96,3.33,0.2,142.12,7.72,97.05,85.98,89.49
+PAN-based Carbon Fiber,102.16,Aerospace,Gray,4.9,8.9,Titania,40.43,414.78,1.31,2.45,2.66,57.92,2.21,98.8,96.7,96.12
+Pitch-based Carbon Fiber,36.26,Aerospace,Black,4.72,3.95,None,101.14,131.21,1.32,4.97,3.19,147.08,7.75,98.37,95.56,86.96
+Rayon-based Carbon Fiber,93.36,Construction,Black,1.91,7.52,Alumina,96.46,92.79,3.36,1.04,3.05,171.18,1.08,87.43,97.8,96.17
+PAN-based Carbon Fiber,31.11,Sports Equipment,Silver,1.07,7.21,Silica,169.86,240.1,2.75,4.74,2.87,123.54,2.91,95.13,90.07,85.97
+Rayon-based Carbon Fiber,28.4,Construction,Silver,3.62,6.42,Titania,110.54,156.77,3.06,4.71,0.76,160.5,4.22,98.27,88.93,97.0
+Rayon-based Carbon Fiber,118.88,Sports Equipment,Gray,4.07,3.65,Titania,128.99,149.03,0.52,1.59,3.18,141.06,7.67,85.26,86.97,95.28
+PAN-based Carbon Fiber,143.0,Construction,Silver,3.77,4.73,None,138.37,60.95,3.99,4.1,2.48,65.43,6.98,89.7,90.19,93.76
+Pitch-based Carbon Fiber,164.5,Sports Equipment,Silver,3.3,4.01,Titania,166.42,146.91,3.99,1.89,2.61,22.86,7.73,97.24,85.28,87.07
+Pitch-based Carbon Fiber,197.31,Construction,Silver,3.04,4.93,Alumina,113.61,452.14,2.61,3.74,2.55,172.65,4.48,88.39,98.39,89.05
+PAN-based Carbon Fiber,132.87,Automotive,Silver,4.03,7.49,Silica,30.69,86.48,3.01,0.51,3.04,155.75,1.69,87.2,95.25,90.41
+Rayon-based Carbon Fiber,160.55,Aerospace,Black,1.22,5.97,None,96.4,269.62,2.59,1.89,0.18,140.13,8.87,89.38,94.58,91.86
+PAN-based Carbon Fiber,40.77,Construction,Silver,4.06,6.84,Titania,88.22,97.75,4.22,4.58,4.05,151.98,1.81,90.29,88.15,93.34
+Pitch-based Carbon Fiber,92.33,Sports Equipment,Silver,1.11,2.58,Silica,49.63,319.28,1.86,2.03,0.99,33.59,1.56,86.61,95.89,97.8
+Pitch-based Carbon Fiber,197.82,Sports Equipment,Gray,2.27,2.96,Silica,133.93,172.04,4.63,1.27,2.25,150.48,3.44,85.13,85.63,97.69
+Rayon-based Carbon Fiber,19.63,Aerospace,Black,0.73,6.27,Alumina,145.19,222.61,4.63,4.99,4.95,165.65,8.09,87.57,99.62,94.95
+Rayon-based Carbon Fiber,55.29,Construction,Black,3.29,4.85,Alumina,150.26,284.67,1.18,3.93,3.27,34.36,5.28,91.98,95.6,92.62
+PAN-based Carbon Fiber,79.16,Construction,Gray,0.52,1.98,Silica,60.39,50.08,2.56,2.72,1.23,52.28,7.68,97.95,87.73,96.07
+Pitch-based Carbon Fiber,33.88,Construction,Silver,3.54,2.76,None,140.76,430.83,4.42,4.52,4.23,143.48,6.23,96.8,97.59,87.5
+Rayon-based Carbon Fiber,85.55,Sports Equipment,Black,3.03,4.13,None,151.08,450.24,3.12,1.34,3.98,53.52,7.12,88.07,89.01,96.81
+Pitch-based Carbon Fiber,158.89,Aerospace,Gray,3.73,8.2,Titania,167.23,69.64,4.1,0.12,1.23,179.74,1.63,97.08,91.02,86.55
+Pitch-based Carbon Fiber,13.04,Aerospace,Silver,2.7,7.83,Titania,63.96,444.13,2.77,2.97,2.16,77.07,5.86,98.53,96.36,97.89
+Rayon-based Carbon Fiber,186.49,Sports Equipment,Silver,1.25,8.26,Alumina,166.54,163.24,4.61,0.85,2.36,97.48,6.86,97.15,89.4,98.24
+PAN-based Carbon Fiber,94.81,Sports Equipment,Silver,1.07,4.21,Titania,151.3,191.31,4.52,3.12,0.62,95.96,5.2,91.22,92.58,97.62
+Rayon-based Carbon Fiber,178.9,Aerospace,Gray,4.01,8.0,Silica,70.61,298.51,0.94,1.59,1.79,184.4,6.35,87.82,88.03,96.47
+PAN-based Carbon Fiber,164.2,Aerospace,Black,3.44,7.0,Alumina,65.08,316.28,1.31,4.7,4.49,141.39,5.53,86.14,94.98,99.62
+PAN-based Carbon Fiber,130.36,Construction,Black,3.43,1.66,Silica,48.72,251.2,3.18,1.79,3.46,196.75,7.81,87.38,92.71,92.52
+Rayon-based Carbon Fiber,117.46,Aerospace,Gray,4.06,3.1,Titania,94.37,156.28,2.52,0.51,2.57,192.49,4.16,96.26,99.98,89.79
+PAN-based Carbon Fiber,36.13,Automotive,Silver,1.06,2.63,Silica,127.7,417.27,0.59,3.86,2.79,94.7,7.99,92.03,88.16,95.36
+PAN-based Carbon Fiber,181.5,Construction,Black,1.02,4.46,Titania,138.39,305.34,4.33,2.38,3.34,84.54,1.8,98.5,88.12,92.49
+PAN-based Carbon Fiber,175.59,Sports Equipment,Silver,2.24,6.62,None,32.23,426.2,3.64,1.93,2.79,46.91,9.63,98.61,89.4,86.93
+Rayon-based Carbon Fiber,157.18,Construction,Black,2.37,4.96,Alumina,139.6,212.71,4.71,2.49,1.25,156.31,5.25,85.22,99.29,92.84
+Rayon-based Carbon Fiber,22.11,Construction,Gray,1.68,9.78,Titania,100.99,250.79,4.59,0.65,3.87,113.53,5.04,93.75,96.13,90.97
+Pitch-based Carbon Fiber,17.16,Automotive,Gray,1.85,5.97,Titania,108.05,438.3,2.69,4.65,0.9,84.36,2.41,88.92,85.5,99.02
+Pitch-based Carbon Fiber,68.91,Automotive,Black,4.68,7.54,Titania,92.26,469.05,4.43,4.78,4.76,120.32,5.63,87.82,93.19,94.67
+PAN-based Carbon Fiber,18.99,Aerospace,Black,0.7,3.56,Titania,127.31,355.02,3.13,2.91,1.02,53.4,5.8,87.85,87.63,85.23
+Pitch-based Carbon Fiber,176.53,Automotive,Black,3.82,1.21,Silica,99.2,453.52,3.47,3.96,3.74,121.92,8.1,88.9,98.96,98.9
+Pitch-based Carbon Fiber,183.39,Aerospace,Silver,4.79,7.7,Alumina,165.38,398.17,2.37,0.55,0.72,151.89,2.51,98.57,99.09,96.39
+PAN-based Carbon Fiber,93.57,Automotive,Black,3.41,9.55,Titania,59.16,444.43,4.74,0.74,1.53,161.02,9.17,85.21,85.07,92.6
+PAN-based Carbon Fiber,41.72,Construction,Gray,4.65,6.9,Titania,132.67,195.68,1.1,1.38,4.56,178.29,8.08,93.03,90.97,94.68
+PAN-based Carbon Fiber,70.87,Construction,Gray,1.87,8.87,Titania,40.98,457.37,4.87,0.49,4.64,139.53,5.85,86.36,99.23,92.06
+PAN-based Carbon Fiber,128.62,Construction,Black,2.0,3.21,Alumina,127.21,178.65,3.75,3.84,2.57,54.03,5.29,99.46,85.78,96.93
+PAN-based Carbon Fiber,185.81,Sports Equipment,Black,0.89,2.97,Titania,149.95,276.08,1.71,0.11,3.22,33.16,6.22,88.3,99.26,97.59
+Pitch-based Carbon Fiber,20.92,Sports Equipment,Black,3.64,4.48,Titania,165.27,414.22,3.09,1.4,1.2,174.91,5.95,98.99,93.04,93.6
+Rayon-based Carbon Fiber,94.5,Construction,Silver,4.17,5.41,Alumina,36.21,99.55,3.37,4.03,3.96,157.44,4.06,91.33,88.06,85.76
+PAN-based Carbon Fiber,101.23,Automotive,Gray,3.41,6.93,Titania,119.66,394.13,4.32,2.54,1.27,192.19,8.21,90.3,90.95,96.79
+Rayon-based Carbon Fiber,198.85,Sports Equipment,Silver,2.66,1.0,Silica,113.94,222.72,1.42,0.56,0.13,75.1,0.83,93.7,98.7,98.57
+Pitch-based Carbon Fiber,125.66,Aerospace,Gray,1.18,7.58,None,108.88,229.62,1.79,0.8,4.63,45.19,3.46,99.15,88.31,99.24
+Pitch-based Carbon Fiber,69.05,Construction,Gray,4.8,5.39,Silica,146.57,184.6,4.29,2.77,2.61,96.88,2.19,88.2,95.39,85.01
+PAN-based Carbon Fiber,165.24,Automotive,Black,3.33,9.99,Alumina,120.8,368.12,3.97,3.06,2.44,148.5,5.73,99.61,94.64,89.77
+PAN-based Carbon Fiber,134.52,Aerospace,Silver,3.16,1.72,None,100.37,277.55,3.95,1.97,2.6,30.68,6.99,85.74,89.47,99.05
+Pitch-based Carbon Fiber,134.46,Aerospace,Black,4.55,7.02,Titania,138.19,80.14,3.28,4.68,1.24,85.82,2.2,87.23,88.85,87.78
+Pitch-based Carbon Fiber,113.61,Automotive,Gray,4.92,2.45,Silica,110.74,69.11,3.26,0.17,0.52,114.56,6.13,93.18,87.99,91.68
+Pitch-based Carbon Fiber,106.43,Aerospace,Black,4.53,2.19,None,62.18,407.96,1.25,1.71,2.51,10.16,5.45,97.22,98.65,90.97
+PAN-based Carbon Fiber,184.05,Sports Equipment,Silver,2.49,4.58,Silica,140.15,412.09,4.77,3.3,2.81,20.16,2.26,94.53,93.78,97.17
+Pitch-based Carbon Fiber,144.14,Construction,Black,0.73,3.28,None,156.32,286.67,4.25,2.38,0.21,194.15,7.35,86.05,90.44,97.88
+Pitch-based Carbon Fiber,129.65,Aerospace,Silver,4.33,9.18,Alumina,41.42,195.54,1.6,3.4,4.39,65.42,6.15,86.99,97.99,93.79
+PAN-based Carbon Fiber,128.17,Automotive,Black,2.24,1.06,None,128.14,132.25,3.36,0.2,4.47,21.4,5.88,86.02,86.05,91.37
+Rayon-based Carbon Fiber,65.37,Sports Equipment,Black,3.18,3.37,Alumina,179.32,212.59,1.46,0.43,0.8,185.24,4.69,96.29,99.65,92.51
+PAN-based Carbon Fiber,168.91,Sports Equipment,Gray,4.21,6.96,Alumina,97.43,453.42,0.89,1.07,1.55,192.28,2.32,98.39,89.2,88.19
+Pitch-based Carbon Fiber,139.23,Sports Equipment,Silver,3.88,7.47,Titania,57.48,492.96,1.15,1.94,3.97,22.0,6.8,85.28,98.6,97.64
+Pitch-based Carbon Fiber,26.97,Automotive,Gray,0.88,8.15,Alumina,171.71,485.26,1.41,2.97,3.68,124.82,0.83,92.69,95.7,88.79
+PAN-based Carbon Fiber,18.31,Sports Equipment,Black,2.1,7.16,Silica,33.05,419.6,2.13,4.57,4.41,187.0,2.67,98.64,93.89,92.48
+Pitch-based Carbon Fiber,122.28,Sports Equipment,Black,4.24,7.7,Silica,134.86,54.9,3.68,4.95,1.14,135.66,3.97,87.66,97.7,99.19
+PAN-based Carbon Fiber,148.67,Sports Equipment,Silver,2.57,1.03,Alumina,33.9,205.58,2.53,2.84,3.58,45.23,1.88,99.03,95.82,94.68
+Rayon-based Carbon Fiber,17.87,Construction,Silver,2.99,4.69,Titania,104.45,399.07,4.53,4.92,3.66,75.46,5.17,91.55,86.62,92.18
+Pitch-based Carbon Fiber,113.41,Aerospace,Black,2.87,1.99,Titania,58.67,400.14,3.28,0.9,2.84,106.98,0.85,96.48,95.83,90.75
+Rayon-based Carbon Fiber,97.35,Aerospace,Black,1.34,6.38,Alumina,57.23,163.69,1.8,4.15,2.55,127.42,6.37,90.22,85.57,92.59
+Pitch-based Carbon Fiber,36.19,Sports Equipment,Gray,2.66,3.84,None,37.44,225.23,3.23,3.03,3.61,42.39,7.13,86.85,96.24,90.21
+Pitch-based Carbon Fiber,112.19,Aerospace,Black,1.08,2.31,Alumina,45.63,321.25,2.18,3.76,4.16,56.85,3.73,90.02,97.17,99.84
+PAN-based Carbon Fiber,151.78,Automotive,Black,0.62,6.22,Alumina,171.34,170.66,0.63,3.91,4.09,78.77,3.44,88.19,98.32,91.5
+Rayon-based Carbon Fiber,138.04,Construction,Silver,3.59,5.75,Alumina,132.99,229.64,4.4,0.84,2.07,18.47,1.59,89.57,89.3,97.66
+Pitch-based Carbon Fiber,155.63,Construction,Gray,1.88,8.84,Titania,117.88,260.41,2.48,4.03,2.28,61.13,1.85,98.08,96.66,88.53
+Rayon-based Carbon Fiber,114.68,Sports Equipment,Silver,0.83,6.9,Silica,155.83,397.61,4.03,0.39,2.91,131.36,1.87,95.56,95.43,86.26
+Rayon-based Carbon Fiber,183.36,Automotive,Black,4.03,4.58,Silica,138.49,55.99,1.36,1.07,0.56,184.16,7.79,93.27,99.74,87.78
+Rayon-based Carbon Fiber,183.26,Automotive,Silver,3.95,6.07,Titania,97.77,427.72,4.42,4.04,0.55,190.31,9.52,89.26,86.34,94.87
+Pitch-based Carbon Fiber,137.03,Aerospace,Silver,4.68,6.57,Titania,58.03,448.49,3.69,3.45,1.44,54.49,7.1,86.5,97.99,88.52
+Rayon-based Carbon Fiber,162.34,Sports Equipment,Silver,1.14,6.19,Alumina,129.83,135.83,3.37,0.31,4.37,117.71,9.76,91.45,99.87,95.42
+Pitch-based Carbon Fiber,169.15,Sports Equipment,Black,2.57,2.65,Silica,142.71,182.55,4.08,2.1,4.86,10.17,1.99,96.65,99.69,99.3
+Pitch-based Carbon Fiber,17.98,Automotive,Silver,0.94,9.61,Alumina,67.0,246.16,3.46,0.84,3.13,66.61,5.81,96.67,86.27,93.52
+Rayon-based Carbon Fiber,87.08,Sports Equipment,Gray,2.48,3.14,Alumina,78.24,176.96,1.98,3.83,1.7,115.32,1.77,96.95,93.53,98.89
+Pitch-based Carbon Fiber,176.76,Automotive,Gray,3.98,1.88,Silica,141.17,398.3,4.51,3.08,2.91,198.86,3.98,98.71,98.5,97.98
+Rayon-based Carbon Fiber,82.35,Construction,Black,0.76,4.09,Silica,90.0,278.93,3.47,1.64,1.97,137.92,8.77,89.89,96.35,87.85
+PAN-based Carbon Fiber,106.84,Aerospace,Silver,3.16,5.85,Titania,79.65,395.89,1.55,3.92,0.37,182.68,2.2,98.63,89.02,97.12
+Pitch-based Carbon Fiber,169.3,Construction,Silver,1.58,7.49,Alumina,177.24,483.14,1.71,1.07,1.6,138.34,8.34,89.66,98.27,93.93
+Pitch-based Carbon Fiber,74.43,Aerospace,Black,3.35,1.49,Titania,150.17,199.86,4.34,1.53,1.07,198.99,5.84,91.11,95.89,99.99
+Pitch-based Carbon Fiber,176.99,Aerospace,Silver,2.47,3.79,Titania,40.73,158.9,4.34,0.87,3.26,26.44,4.39,98.04,99.65,92.71
+PAN-based Carbon Fiber,112.74,Automotive,Gray,3.99,9.9,None,92.37,62.23,1.51,2.18,0.25,27.72,0.78,98.56,95.73,90.33
+PAN-based Carbon Fiber,67.32,Automotive,Silver,1.0,9.3,None,92.2,343.51,4.23,2.13,2.23,164.86,5.59,92.44,93.48,98.16
+Pitch-based Carbon Fiber,96.62,Aerospace,Silver,4.56,3.31,Silica,155.32,401.11,4.45,1.73,1.97,39.33,9.48,93.49,95.71,96.94
+Pitch-based Carbon Fiber,132.7,Sports Equipment,Silver,2.54,1.55,Silica,52.03,56.66,4.83,0.27,1.23,134.65,2.95,92.3,86.93,99.75
+Pitch-based Carbon Fiber,21.6,Construction,Silver,0.81,5.51,Silica,37.67,341.8,4.51,1.96,3.17,183.45,1.13,98.36,90.5,85.09
+Rayon-based Carbon Fiber,116.01,Construction,Black,4.18,9.79,None,145.04,270.74,2.04,1.07,1.55,29.75,1.74,94.69,89.93,93.58
+Pitch-based Carbon Fiber,85.12,Sports Equipment,Gray,2.48,2.75,None,76.23,468.6,4.25,2.08,3.53,130.53,1.78,98.3,97.93,88.5
+PAN-based Carbon Fiber,34.13,Aerospace,Gray,1.65,3.18,Alumina,151.77,138.16,4.89,2.9,1.55,137.45,8.44,97.11,94.45,90.55
+Pitch-based Carbon Fiber,196.43,Aerospace,Black,3.71,8.28,None,137.29,467.86,3.43,1.49,1.54,104.22,2.45,90.04,89.04,95.85
+Pitch-based Carbon Fiber,154.63,Construction,Gray,3.23,4.69,Silica,72.4,287.04,4.75,4.97,2.0,37.82,4.19,94.37,96.36,95.46
+Rayon-based Carbon Fiber,61.21,Automotive,Gray,4.29,6.49,Alumina,120.51,332.76,3.2,1.71,4.21,99.46,5.52,99.36,88.41,96.81
+Pitch-based Carbon Fiber,67.57,Automotive,Gray,1.11,9.21,Silica,170.18,99.71,2.74,4.83,2.07,194.71,6.3,86.12,90.75,95.71
+Pitch-based Carbon Fiber,54.2,Construction,Gray,1.72,4.89,Silica,114.66,449.7,4.44,2.87,1.19,96.32,8.25,89.22,93.96,91.33
+Pitch-based Carbon Fiber,184.4,Construction,Black,1.69,8.44,None,104.68,81.37,4.23,0.53,1.99,97.07,5.75,99.52,95.6,96.09
+PAN-based Carbon Fiber,136.34,Automotive,Black,2.95,2.59,Alumina,157.17,251.57,1.87,0.44,0.8,189.03,6.61,87.88,97.28,89.36
+Pitch-based Carbon Fiber,96.67,Sports Equipment,Black,3.75,5.99,Silica,45.68,214.07,0.81,3.52,2.98,126.19,9.18,99.94,94.87,86.13
+PAN-based Carbon Fiber,46.86,Sports Equipment,Gray,0.9,8.26,Silica,41.01,219.58,3.77,2.09,4.83,69.73,0.9,89.0,85.34,95.95
+Rayon-based Carbon Fiber,59.91,Aerospace,Black,1.0,1.12,Silica,73.12,206.9,0.73,2.56,1.37,94.31,4.72,89.03,87.1,96.09
+Rayon-based Carbon Fiber,145.69,Sports Equipment,Gray,2.51,3.48,Alumina,33.75,394.64,4.39,2.2,4.36,178.87,0.61,96.09,90.97,88.79
+PAN-based Carbon Fiber,142.14,Automotive,Black,2.96,7.09,Titania,75.24,442.67,2.46,2.02,1.48,76.52,8.47,97.43,91.21,99.6
+PAN-based Carbon Fiber,141.32,Automotive,Silver,3.63,5.61,Alumina,170.18,120.57,4.6,4.91,3.02,168.69,1.21,96.05,92.65,96.24
+Rayon-based Carbon Fiber,153.67,Construction,Silver,2.09,8.24,Alumina,46.45,233.39,2.81,0.31,1.89,170.07,9.99,86.14,91.31,96.05
+Pitch-based Carbon Fiber,113.22,Sports Equipment,Gray,2.44,3.34,None,113.57,490.44,4.45,4.48,2.74,168.32,0.62,87.48,87.08,89.04
+PAN-based Carbon Fiber,143.97,Construction,Black,3.69,5.7,Alumina,115.73,364.09,3.95,0.72,2.62,85.33,0.6,91.8,89.95,98.61
+Pitch-based Carbon Fiber,11.62,Automotive,Black,0.81,4.76,Alumina,75.91,302.95,4.27,4.4,2.92,82.73,8.83,92.27,90.41,87.44
+PAN-based Carbon Fiber,199.94,Sports Equipment,Gray,2.17,8.83,Titania,56.55,219.57,0.65,2.2,0.55,68.53,6.43,96.5,97.62,95.68
+Rayon-based Carbon Fiber,11.49,Automotive,Black,3.49,5.47,None,62.79,72.51,2.83,1.48,4.83,46.48,8.07,94.98,96.05,92.63
+PAN-based Carbon Fiber,147.91,Aerospace,Black,3.81,6.91,None,111.16,361.01,4.41,0.2,0.45,113.1,6.43,85.34,85.84,85.75
+PAN-based Carbon Fiber,198.3,Automotive,Gray,2.31,6.41,Alumina,108.63,475.62,1.1,4.13,3.13,124.2,0.85,99.79,89.64,91.63
+Rayon-based Carbon Fiber,128.52,Sports Equipment,Gray,3.34,4.41,None,179.98,64.08,3.36,0.1,1.49,145.46,3.63,89.14,88.49,89.75
+PAN-based Carbon Fiber,182.84,Sports Equipment,Gray,3.46,2.98,Silica,55.66,238.12,3.4,2.58,2.1,12.48,5.96,90.84,92.39,86.1
+Rayon-based Carbon Fiber,124.46,Construction,Gray,4.36,4.73,Alumina,135.58,448.56,0.99,4.13,2.72,155.15,7.94,95.76,85.58,90.73
+Pitch-based Carbon Fiber,57.71,Aerospace,Silver,1.36,2.93,Titania,149.8,437.5,3.61,2.38,4.24,126.19,2.38,99.31,94.87,85.82
+Rayon-based Carbon Fiber,53.19,Construction,Black,2.27,6.4,Alumina,91.83,67.65,4.67,4.87,4.19,184.08,8.06,99.98,99.16,91.81
+Pitch-based Carbon Fiber,56.85,Automotive,Black,3.15,1.81,Alumina,47.04,244.75,3.99,3.03,1.77,69.77,5.6,86.78,87.43,94.46
+Rayon-based Carbon Fiber,79.45,Aerospace,Silver,2.57,9.31,Alumina,143.61,195.72,0.9,1.73,1.62,129.42,1.84,96.6,91.25,89.11
+PAN-based Carbon Fiber,33.24,Sports Equipment,Gray,3.91,4.32,Silica,67.7,360.95,1.42,1.38,2.54,132.77,6.92,97.82,87.12,92.56
+Rayon-based Carbon Fiber,177.1,Construction,Black,0.62,1.27,None,87.31,357.29,1.76,3.65,0.95,37.38,4.9,87.07,96.01,92.42
+PAN-based Carbon Fiber,119.56,Sports Equipment,Gray,2.84,7.64,None,47.87,345.12,2.68,4.46,1.54,74.35,5.1,96.76,94.19,91.74
+Pitch-based Carbon Fiber,53.56,Automotive,Gray,4.79,5.6,Alumina,152.99,297.87,3.6,1.07,4.04,177.33,1.74,87.47,89.47,93.43
+Pitch-based Carbon Fiber,97.17,Construction,Silver,2.57,9.91,Silica,129.46,159.63,1.29,1.04,0.84,198.2,1.39,96.47,94.53,86.82
+Rayon-based Carbon Fiber,136.04,Automotive,Silver,1.65,1.85,Titania,35.8,361.02,4.02,2.87,4.15,76.67,9.63,87.44,93.6,93.0
+Pitch-based Carbon Fiber,73.71,Automotive,Black,2.53,6.01,Titania,54.4,488.47,2.59,3.32,2.52,65.28,7.69,99.1,85.93,98.69
+Rayon-based Carbon Fiber,111.31,Construction,Silver,0.86,7.28,None,130.34,84.87,1.07,2.88,2.88,83.78,6.16,91.46,93.72,89.71
+PAN-based Carbon Fiber,191.28,Construction,Black,4.33,2.72,Alumina,148.77,315.89,2.6,3.56,2.95,60.95,5.28,88.03,85.97,92.34
+Pitch-based Carbon Fiber,31.18,Aerospace,Gray,2.03,2.99,Silica,114.93,189.86,3.78,4.34,1.35,38.92,1.98,93.68,89.83,85.52
+Pitch-based Carbon Fiber,73.49,Construction,Black,1.54,1.49,Silica,132.38,108.04,3.63,0.83,3.29,138.41,7.37,87.32,87.16,88.83
+PAN-based Carbon Fiber,130.72,Sports Equipment,Black,2.22,8.32,None,71.71,86.31,2.57,1.06,3.8,46.01,2.1,94.21,89.02,94.64
+Pitch-based Carbon Fiber,139.17,Sports Equipment,Gray,4.96,6.2,Titania,134.86,58.07,1.63,0.57,1.18,198.44,2.31,88.63,96.16,88.42
+PAN-based Carbon Fiber,69.11,Sports Equipment,Black,4.28,5.28,Alumina,143.76,90.26,1.63,3.42,1.57,61.06,5.47,85.25,97.55,96.73
+Rayon-based Carbon Fiber,191.9,Sports Equipment,Silver,1.76,7.2,None,104.68,154.03,1.66,2.87,2.87,65.51,9.08,93.36,85.07,85.11
+PAN-based Carbon Fiber,68.72,Sports Equipment,Black,2.57,2.17,Titania,52.91,124.26,1.41,2.96,4.26,159.07,2.21,86.99,92.04,90.51
+Pitch-based Carbon Fiber,179.98,Automotive,Black,1.74,3.52,Titania,154.88,481.58,4.62,1.84,1.84,56.88,0.84,92.12,85.79,86.11
+PAN-based Carbon Fiber,25.57,Automotive,Black,4.2,1.42,Silica,69.89,192.12,3.26,2.38,1.86,143.29,2.74,95.8,88.8,89.09
+PAN-based Carbon Fiber,175.15,Automotive,Silver,2.67,8.3,Silica,44.68,496.51,3.12,4.3,2.04,10.5,5.17,96.37,92.52,85.15
+Rayon-based Carbon Fiber,52.6,Sports Equipment,Black,0.93,1.13,None,106.71,405.16,3.37,4.39,4.69,144.7,2.34,99.65,88.64,85.58
+Pitch-based Carbon Fiber,43.05,Automotive,Silver,0.8,6.81,Silica,134.2,352.07,2.71,4.86,3.86,95.44,8.92,98.61,97.13,98.52
+Rayon-based Carbon Fiber,86.9,Aerospace,Silver,0.58,8.75,Silica,162.2,126.22,0.58,1.53,3.58,47.31,5.74,89.75,89.81,94.49
+PAN-based Carbon Fiber,175.02,Aerospace,Silver,4.57,4.5,Alumina,82.03,397.46,2.88,3.58,2.31,28.71,6.83,98.34,86.79,94.71
+PAN-based Carbon Fiber,50.65,Automotive,Gray,2.84,3.11,Alumina,99.99,220.28,4.17,3.02,4.5,88.89,2.95,89.33,89.69,94.08
+Pitch-based Carbon Fiber,21.28,Automotive,Silver,3.27,6.38,Silica,69.34,263.11,0.62,4.86,3.65,82.52,9.95,96.84,88.58,98.28
+Rayon-based Carbon Fiber,199.38,Construction,Gray,1.34,6.8,Silica,152.12,127.22,1.67,1.59,4.93,119.49,8.62,90.44,98.3,90.18
+Rayon-based Carbon Fiber,138.41,Construction,Black,1.6,4.44,Alumina,90.76,71.78,1.69,0.82,3.95,23.33,8.49,91.44,92.3,93.45
+PAN-based Carbon Fiber,121.21,Sports Equipment,Black,0.56,1.16,Alumina,82.73,163.3,2.65,4.19,0.12,135.06,7.76,95.66,95.25,99.65
+Pitch-based Carbon Fiber,16.75,Sports Equipment,Black,2.76,1.72,Alumina,107.09,237.73,3.27,0.25,2.75,65.35,5.96,88.16,96.91,88.18
+Pitch-based Carbon Fiber,68.37,Automotive,Silver,4.75,4.54,Silica,89.0,440.2,1.5,1.19,0.39,24.87,5.72,99.98,87.73,90.79
+Rayon-based Carbon Fiber,83.34,Aerospace,Silver,1.18,4.19,Alumina,91.59,117.76,4.19,4.25,2.92,124.62,9.03,94.69,97.8,92.67
+PAN-based Carbon Fiber,53.75,Sports Equipment,Silver,3.45,8.28,Silica,120.7,301.98,1.74,3.08,2.22,38.2,0.66,96.05,86.74,90.55
+Pitch-based Carbon Fiber,32.9,Construction,Silver,2.52,6.64,None,75.15,246.73,0.62,1.85,0.79,88.64,1.06,87.37,97.38,99.13
+Rayon-based Carbon Fiber,125.47,Automotive,Gray,4.71,2.06,Titania,156.2,444.54,1.89,1.72,1.75,171.25,9.73,97.12,94.94,88.94
+Rayon-based Carbon Fiber,166.83,Aerospace,Gray,4.5,2.02,Alumina,33.8,304.1,2.24,4.01,1.67,94.03,9.35,95.66,90.36,87.74
+Pitch-based Carbon Fiber,105.79,Automotive,Black,0.88,5.35,Silica,125.87,114.06,1.69,0.92,2.01,83.05,7.82,91.17,88.66,87.78
+Rayon-based Carbon Fiber,105.28,Sports Equipment,Black,4.02,3.18,Alumina,130.19,325.75,2.77,2.23,2.92,45.31,0.61,99.11,94.75,88.98
+PAN-based Carbon Fiber,81.17,Automotive,Black,1.39,1.81,Alumina,138.38,398.33,0.65,3.11,1.17,16.67,4.57,95.87,97.22,86.81
+PAN-based Carbon Fiber,196.83,Aerospace,Black,1.17,1.41,Silica,152.68,292.51,1.86,4.13,4.03,106.97,6.75,94.14,91.09,89.17
+PAN-based Carbon Fiber,71.64,Sports Equipment,Gray,0.65,1.29,Silica,92.42,449.33,4.87,1.45,4.39,181.5,3.07,92.06,88.29,87.37
+Rayon-based Carbon Fiber,24.62,Automotive,Black,3.29,4.21,Alumina,99.82,472.27,4.44,0.23,3.71,49.75,3.39,90.94,98.55,98.03
+Rayon-based Carbon Fiber,163.1,Sports Equipment,Gray,4.99,5.24,Titania,179.68,233.67,1.95,0.98,0.93,117.69,1.22,99.64,86.58,86.61
+Pitch-based Carbon Fiber,63.03,Construction,Gray,3.78,7.83,Titania,35.57,461.23,2.73,4.72,1.58,174.82,6.82,98.42,89.11,93.68
+PAN-based Carbon Fiber,120.12,Construction,Black,4.94,2.55,None,66.23,243.11,4.1,2.97,1.02,94.19,9.37,85.02,87.77,96.66
+Pitch-based Carbon Fiber,173.43,Construction,Silver,4.41,9.34,Silica,31.74,449.26,0.72,3.89,2.75,166.92,9.67,90.79,92.03,94.61
+PAN-based Carbon Fiber,129.83,Construction,Gray,4.16,9.25,Silica,103.09,361.98,2.27,2.15,3.0,181.27,0.65,93.75,94.83,93.29
+Pitch-based Carbon Fiber,49.98,Aerospace,Black,1.0,9.93,Titania,101.37,116.99,2.96,2.51,3.36,132.7,9.59,98.47,93.82,88.14
+Rayon-based Carbon Fiber,198.94,Automotive,Silver,4.36,5.31,Silica,168.92,168.63,1.15,0.22,1.07,177.43,2.61,91.49,91.41,88.48
+Pitch-based Carbon Fiber,92.89,Automotive,Black,4.18,2.42,Titania,38.33,91.89,4.11,2.8,1.77,101.16,4.45,90.97,94.21,87.56
+PAN-based Carbon Fiber,75.91,Aerospace,Black,1.84,9.56,Titania,80.89,280.78,3.62,4.9,0.54,75.7,8.84,91.52,92.88,95.01
+Rayon-based Carbon Fiber,102.3,Construction,Gray,3.34,3.71,Silica,137.33,462.52,4.94,2.15,0.52,96.21,7.22,93.29,87.82,93.09
+Rayon-based Carbon Fiber,41.05,Construction,Gray,3.81,8.63,None,174.6,103.31,1.38,1.88,2.85,36.57,0.99,89.31,86.18,88.89
+Rayon-based Carbon Fiber,96.37,Sports Equipment,Gray,1.97,2.24,Alumina,106.34,85.4,3.13,4.09,4.52,29.54,1.94,87.45,94.21,87.37
+Rayon-based Carbon Fiber,94.35,Automotive,Silver,3.82,2.7,Titania,143.99,235.46,4.14,0.67,4.39,35.52,4.44,91.37,99.96,90.99
+Rayon-based Carbon Fiber,34.35,Construction,Gray,2.72,5.87,None,104.92,193.75,4.92,1.07,4.62,157.43,8.85,94.5,90.58,88.08
+PAN-based Carbon Fiber,191.59,Automotive,Gray,3.58,2.58,Titania,130.79,267.31,4.98,0.54,4.85,170.69,1.91,87.2,86.09,98.76
+PAN-based Carbon Fiber,164.39,Sports Equipment,Silver,0.76,7.06,None,146.08,440.01,3.09,2.53,3.44,136.19,9.97,98.27,86.2,85.22
+Pitch-based Carbon Fiber,47.82,Aerospace,Silver,4.11,3.88,Titania,105.18,277.23,0.73,1.6,0.89,180.89,9.52,88.06,96.65,94.36
+Rayon-based Carbon Fiber,147.53,Automotive,Black,3.37,9.78,Alumina,116.04,350.43,2.3,3.85,3.28,178.37,4.83,97.05,86.51,99.27
+Rayon-based Carbon Fiber,182.42,Construction,Silver,1.84,2.92,Silica,65.76,423.97,3.66,3.84,2.95,159.71,6.32,94.08,98.53,96.78
+Pitch-based Carbon Fiber,70.23,Automotive,Silver,4.48,8.35,Silica,125.26,99.77,1.66,4.63,1.01,33.88,8.19,89.47,93.12,85.84
+Pitch-based Carbon Fiber,138.08,Aerospace,Gray,3.6,3.62,None,116.37,396.99,4.94,0.96,4.87,181.77,7.25,96.56,97.29,90.42
+PAN-based Carbon Fiber,186.13,Aerospace,Black,4.75,6.34,None,114.2,329.57,3.89,3.91,0.75,125.44,6.41,92.91,93.59,94.95
+PAN-based Carbon Fiber,128.82,Sports Equipment,Silver,1.75,9.23,Silica,172.73,77.29,3.64,4.69,2.11,149.59,9.3,98.76,93.84,96.66
+Pitch-based Carbon Fiber,122.85,Construction,Silver,4.1,9.48,Alumina,45.75,276.06,3.98,0.49,4.1,42.57,3.88,89.16,93.6,86.07
+Pitch-based Carbon Fiber,96.84,Construction,Silver,1.54,2.92,Silica,70.37,230.4,3.55,1.47,1.63,188.41,2.07,87.98,96.39,97.27
+Pitch-based Carbon Fiber,112.83,Sports Equipment,Black,2.9,7.42,Titania,164.73,148.17,2.94,3.38,4.6,106.03,4.25,85.17,93.85,91.26
+Rayon-based Carbon Fiber,177.75,Construction,Silver,3.13,2.35,Alumina,59.64,57.92,3.17,0.51,2.82,16.7,6.94,91.3,87.13,93.01
+Rayon-based Carbon Fiber,96.36,Aerospace,Black,3.57,9.62,Silica,135.58,469.58,3.75,0.18,0.14,191.21,6.33,95.95,89.57,94.21
+Rayon-based Carbon Fiber,65.2,Sports Equipment,Silver,0.59,9.79,Alumina,61.45,483.05,2.63,2.2,2.66,148.89,5.24,89.31,86.99,96.33
+Rayon-based Carbon Fiber,104.88,Automotive,Silver,1.15,3.37,Titania,40.79,183.82,0.98,4.03,1.48,182.35,9.51,96.88,85.11,85.71
+Pitch-based Carbon Fiber,107.0,Aerospace,Silver,4.35,3.95,Alumina,47.39,105.38,3.88,3.45,2.54,25.9,5.42,85.03,91.6,89.27
+PAN-based Carbon Fiber,190.59,Automotive,Gray,2.02,5.42,Alumina,101.14,148.7,4.28,0.74,1.78,91.73,1.29,99.8,85.46,97.61
+PAN-based Carbon Fiber,92.37,Construction,Gray,4.83,8.18,Alumina,41.23,327.72,4.51,4.35,3.04,186.11,9.36,99.6,89.5,86.64
+Rayon-based Carbon Fiber,21.02,Sports Equipment,Gray,1.97,2.42,Silica,52.47,475.06,3.35,4.25,0.32,34.13,3.7,98.59,91.16,99.06
+Rayon-based Carbon Fiber,78.68,Construction,Black,2.78,3.37,Silica,53.8,135.85,4.89,3.55,3.05,152.47,5.01,88.41,87.26,85.39
+Pitch-based Carbon Fiber,95.32,Aerospace,Silver,3.19,5.7,Silica,160.47,466.99,1.47,2.02,2.18,127.85,5.95,98.06,91.07,90.14
+PAN-based Carbon Fiber,145.44,Aerospace,Black,2.01,3.49,Alumina,122.74,305.1,1.86,1.79,3.52,69.61,9.5,88.06,88.4,88.14
+PAN-based Carbon Fiber,114.56,Aerospace,Gray,2.78,2.16,Silica,137.41,224.87,0.55,0.22,1.83,96.58,8.37,86.51,99.44,97.19
+Pitch-based Carbon Fiber,192.84,Aerospace,Gray,4.35,1.38,Titania,102.35,181.91,2.36,1.26,2.96,110.75,6.19,96.25,99.02,96.41
+PAN-based Carbon Fiber,31.83,Construction,Gray,0.87,1.1,Titania,105.24,369.58,1.05,4.94,4.13,102.91,6.18,95.59,85.89,93.22
+Pitch-based Carbon Fiber,199.03,Sports Equipment,Silver,3.19,9.19,Alumina,167.69,190.54,4.58,0.8,3.04,98.02,5.71,97.48,92.93,92.24
+Pitch-based Carbon Fiber,193.66,Automotive,Black,2.7,6.82,None,146.12,186.87,2.14,1.83,1.3,144.31,3.83,86.03,90.76,91.32
+PAN-based Carbon Fiber,106.87,Aerospace,Black,4.19,4.48,Titania,140.07,149.77,4.65,0.24,4.7,115.74,0.72,95.83,85.16,90.55
+Rayon-based Carbon Fiber,199.37,Construction,Gray,0.5,6.21,None,39.47,98.46,2.78,0.47,3.03,47.39,4.77,96.91,91.03,85.38
+Pitch-based Carbon Fiber,194.88,Aerospace,Black,1.92,1.98,None,111.5,62.09,4.6,0.65,2.45,67.45,6.53,87.75,87.05,86.97
+PAN-based Carbon Fiber,25.19,Automotive,Black,4.56,6.96,None,97.96,479.7,3.86,0.19,2.56,99.59,6.58,88.33,96.39,98.7
+Rayon-based Carbon Fiber,102.79,Automotive,Silver,1.73,1.84,Titania,48.6,399.36,3.63,1.76,3.3,114.31,1.74,97.53,88.02,93.42
+PAN-based Carbon Fiber,15.92,Sports Equipment,Silver,3.1,2.7,Titania,42.39,242.61,2.79,1.26,3.62,30.12,7.62,96.22,91.43,87.44
+Rayon-based Carbon Fiber,192.19,Construction,Gray,3.19,7.57,None,72.81,168.35,1.3,0.65,3.96,96.47,5.6,92.67,97.68,85.59
+PAN-based Carbon Fiber,36.9,Sports Equipment,Gray,3.12,7.41,None,167.89,339.23,1.44,1.09,2.09,185.16,6.23,88.96,99.79,90.57
+PAN-based Carbon Fiber,156.05,Construction,Silver,2.29,9.54,Titania,83.16,160.01,0.59,3.34,2.82,52.82,6.04,93.42,89.47,85.34
+PAN-based Carbon Fiber,180.39,Construction,Silver,0.62,8.33,Silica,117.78,82.7,1.73,4.37,2.06,199.73,3.1,86.93,92.54,87.82
+Rayon-based Carbon Fiber,46.95,Automotive,Silver,1.83,7.86,None,142.29,295.51,4.63,2.46,0.57,189.01,8.36,92.71,95.1,92.27
+Pitch-based Carbon Fiber,84.31,Aerospace,Gray,0.64,5.4,Silica,76.83,188.79,3.52,0.33,1.73,163.93,1.73,88.85,97.33,98.61
+PAN-based Carbon Fiber,28.08,Aerospace,Silver,1.99,6.01,Alumina,60.47,79.63,4.7,4.26,0.46,115.74,4.02,96.03,99.43,93.26
+PAN-based Carbon Fiber,169.67,Aerospace,Gray,1.12,6.1,None,40.39,438.56,0.8,3.5,2.98,191.92,6.45,88.14,92.67,99.55
+Rayon-based Carbon Fiber,144.75,Aerospace,Silver,4.93,6.43,Titania,89.35,187.26,1.41,1.07,1.21,106.78,0.85,88.97,95.63,85.61
+Rayon-based Carbon Fiber,16.57,Sports Equipment,Black,4.94,6.96,Titania,168.48,239.6,3.18,0.61,2.09,99.26,1.78,98.62,88.23,87.14
+Rayon-based Carbon Fiber,120.72,Construction,Gray,1.73,4.8,Titania,68.18,333.14,4.57,0.85,0.45,57.83,2.25,87.8,86.61,93.45
+Pitch-based Carbon Fiber,153.39,Aerospace,Silver,2.89,3.31,None,162.47,379.31,4.95,2.96,0.61,194.86,9.93,95.36,99.26,88.89
+Pitch-based Carbon Fiber,116.95,Automotive,Silver,2.26,8.47,Titania,166.21,110.23,0.68,3.7,2.46,113.56,7.73,94.22,88.89,87.55
+Pitch-based Carbon Fiber,23.65,Sports Equipment,Gray,2.93,3.23,None,55.43,146.02,2.57,4.08,0.75,35.96,0.56,99.61,94.7,88.58
+PAN-based Carbon Fiber,69.15,Automotive,Gray,4.99,3.96,None,93.79,397.03,1.09,1.44,3.87,75.21,6.75,95.5,92.31,88.55
+PAN-based Carbon Fiber,60.59,Automotive,Black,4.6,1.96,Titania,106.99,410.62,1.07,4.45,0.73,137.41,8.93,99.56,91.32,97.5
+Pitch-based Carbon Fiber,120.19,Automotive,Silver,2.94,5.89,Silica,120.59,312.45,0.87,4.22,4.66,136.49,0.62,98.77,92.62,97.02
+PAN-based Carbon Fiber,45.43,Aerospace,Gray,4.22,8.69,None,55.67,189.5,2.84,3.3,3.85,109.01,3.53,98.24,89.45,94.37
+Rayon-based Carbon Fiber,103.46,Sports Equipment,Black,4.6,6.77,Silica,134.75,358.23,3.54,2.19,2.48,107.53,3.9,96.65,88.1,97.86
+Pitch-based Carbon Fiber,101.04,Aerospace,Gray,1.28,6.68,Silica,63.53,85.01,0.77,0.4,0.41,142.36,7.8,87.24,89.59,99.5
+PAN-based Carbon Fiber,97.73,Aerospace,Gray,0.85,2.67,None,159.28,118.88,1.81,1.26,3.93,25.89,5.07,98.13,99.96,87.41
+PAN-based Carbon Fiber,22.55,Automotive,Black,4.39,7.73,None,131.1,422.21,2.49,2.03,2.83,55.21,5.93,89.14,92.74,95.69
+PAN-based Carbon Fiber,39.69,Automotive,Gray,4.83,7.88,Silica,84.27,134.82,3.61,2.54,3.64,40.53,8.65,95.55,87.81,87.96
+Rayon-based Carbon Fiber,141.0,Aerospace,Gray,0.83,4.58,Titania,119.7,307.37,4.21,3.54,4.33,156.46,9.13,88.93,87.13,91.0
+PAN-based Carbon Fiber,46.87,Aerospace,Silver,0.98,3.73,Titania,83.09,64.31,4.9,1.17,3.13,134.42,5.22,85.41,95.95,93.35
+Pitch-based Carbon Fiber,149.79,Construction,Silver,3.76,9.44,None,157.76,134.8,4.37,1.36,2.01,61.96,8.47,85.59,98.69,90.81
+Pitch-based Carbon Fiber,193.19,Aerospace,Gray,0.7,9.01,None,127.65,368.12,3.68,3.66,2.5,138.64,7.75,95.62,93.99,92.16
+Rayon-based Carbon Fiber,161.02,Automotive,Silver,0.77,2.78,Silica,42.56,289.49,4.99,4.3,3.17,18.22,1.39,93.15,96.6,89.8
